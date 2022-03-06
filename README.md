@@ -1,5 +1,9 @@
 <h1 align="center"> Hi, Welcome! </h1>
-<div align="center"><a href=https://www.linkedin.com/in/nguyenle23iu/> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href=https://www.facebook.com/nguyenle23.iu/> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"> </a> 
+
+<div align="center">
+<a href=https://www.linkedin.com/in/nguyenle23iu/> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href=https://www.facebook.com/nguyenle23.iu/> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a> <a href=https://https://www.instagram.com/ng___le/?hl/> <img src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a> <a href=https://www.youtube.com/channel/UCgGdKJ-_dy90xlxwgQCV6KA/> <img src="https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a> 
+
+
 <p align="center">I'm a junior studying Computer Science at IUL</p>
 
 ## Front-end:
