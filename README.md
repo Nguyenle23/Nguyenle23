@@ -16,11 +16,9 @@ I'm a junior studying Computer Science at IU. I'm from Vietnam and my goal is to
 
 ## 📈 Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenle23&theme=prussian&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=nguyenle23&theme=gruvbox_light&show_icons=true">
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=anhduy1202&theme=tokyonight&show_icons=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhduy1202&theme=tokyonight&layout=compact&langs_count=6">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenle23&theme=gruvbox_light&layout=compact&langs_count=6">
 
 <!---
 anhduy1202/anhduy1202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
