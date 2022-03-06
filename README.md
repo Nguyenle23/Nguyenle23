@@ -19,11 +19,4 @@ I'm a junior studying Computer Science at IU
 
 
 ## 📈 Github Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenle23&theme=gruvbox_light&layout=compact&langs_count=6">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nguyenle23&theme=gruvbox_light&show_icons=true">
-
-
-<!---
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenle23&theme=gruvbox_light&layout=compact&langs_count=6"><img src="https://github-readme-stats.vercel.app/api?username=nguyenle23&theme=gruvbox_light&show_icons=true">
