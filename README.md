@@ -1,5 +1,5 @@
 # Hi, I’m Nguyen Le - Welcome! <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
-<a href=https://www.linkedin.com/in/nguyenle23iu/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <a href=https://www.facebook.com/nguyenle23.iu/> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"> </a> 
+<a href=https://www.linkedin.com/in/nguyenle23iu/> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href=https://www.facebook.com/nguyenle23.iu/> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"> </a> 
 
 I'm a junior studying Computer Science at IU. I'm from Vietnam and my goal is to become a software engineer.
 
@@ -15,6 +15,8 @@ I'm a junior studying Computer Science at IU. I'm from Vietnam and my goal is to
 
 
 ## 📈 Github Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenle23&theme=prussian&show_icons=true)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=anhduy1202&theme=tokyonight&show_icons=true&count_private=true">
