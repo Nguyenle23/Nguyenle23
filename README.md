@@ -25,6 +25,5 @@ I'm a junior studying Computer Science at IU
 
 
 <!---
-anhduy1202/anhduy1202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
