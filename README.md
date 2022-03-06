@@ -1,4 +1,4 @@
-<h1 align="center"> �Hi, Welcome! </h1>
+<h1 align="center"> Hi, Welcome! </h1>
 <div align="center"><a href=https://www.linkedin.com/in/nguyenle23iu/> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href=https://www.facebook.com/nguyenle23.iu/> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"> </a> 
 <p align="center">I'm a junior studying Computer Science at IUL</p>
 
