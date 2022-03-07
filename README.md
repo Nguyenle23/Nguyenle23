@@ -2,12 +2,19 @@
 
 <div align="center">
   
-<p align="center">I'm a junior studying Computer Science at IU</p>
+<p>I'm a junior studying Computer Science at IU</p>
   
-<br>
+  <details>
+  <summary> Connect with me on: </summary>  
+    <br>
   <a href=https://www.linkedin.com/in/nguyenle23iu/> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href=https://www.facebook.com/nguyenle23.iu/> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a> <a href=https://www.instagram.com/ng___le/?hl=vi/> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a> <a href=https://www.youtube.com/channel/UCgGdKJ-_dy90xlxwgQCV6KA/> <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a> 
+ </details>
+  
+---
 
-
+<details>
+<summary> Languages and Tool : </summary>
+  
 ## Front-end
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
 
@@ -21,8 +28,9 @@
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
 
+</details>
 
-## Github Stats
+## Github Activities
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenle23&theme=gruvbox_light&show_icons=true"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenle23&theme=gruvbox_light&layout=compact&langs_count=6"> |
 | ------------- | ------------- |
 </div>
