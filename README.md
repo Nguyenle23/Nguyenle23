@@ -31,7 +31,7 @@
 </details>
 
 ## Github Activities
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenle23&theme=gruvbox_light&show_icons=true"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenle23&theme=gruvbox_light&layout=compact&langs_count=6"> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenle23&theme=gruvbox_light&show_icons=true&count_private=true"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenle23&theme=gruvbox_light&layout=compact&langs_count=6"> |
 | ------------- | ------------- |
 </div>
 
