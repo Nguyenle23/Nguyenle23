@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, Welcome! </h1>
 
-<div align="center">
+<!-- <div align="center">
   
 <p>I'm a junior studying Computer Science at IU</p>
   
@@ -34,4 +34,4 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenle23&theme=gruvbox_light&show_icons=true&count_private=true"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenle23&theme=gruvbox_light&layout=compact&langs_count=6"> |
 | ------------- | ------------- |
 </div>
-
+ -->
