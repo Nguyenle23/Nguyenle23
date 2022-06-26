@@ -1,8 +1,13 @@
-<h1 align="center"> Hi, Welcome! </h1>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img>
+  
+<img src="https://readme-typing-svg.herokuapp.com?color=DCF719&center=true&multiline=true&width=500&height=100&lines=Hi%2C+I'm+Nguyen+Le;Welcome+to+my+info;Thank+you+and+wish+all+the+best+to+you" alt="Title"></img>
+ </div>
 
 <div align="center">
   
-<p>I'm a junior studying Computer Science at IU</p>
+## I'm a junior studying Computer Science at IU ##
   
   <details>
   <summary> Connect with me on: </summary>  
