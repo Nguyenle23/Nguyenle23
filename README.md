@@ -10,9 +10,9 @@
 ## I'm a junior studying Computer Science at IU ##
   
   <details>
-  <summary> Connect with me on: </summary>  
+  <summary> Contact on: </summary>  
     <br>
-    You are the: <img src="https://komarev.com/ghpvc/?username=Nguyenle23&color=blue"> visitor. Thank you a lot !
+    You are the: <img src="https://komarev.com/ghpvc/?username=Nguyenle23&color=blue"> visitor
     <br>
     <br>
   <a href=https://www.linkedin.com/in/nguyenle23iu/> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href=https://www.facebook.com/nguyenle23.iu/> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a> <a href=https://www.instagram.com/ng___le/?hl=vi/> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a> <a href=https://www.youtube.com/channel/UCgGdKJ-_dy90xlxwgQCV6KA/> <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a> 
